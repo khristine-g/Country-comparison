@@ -1,0 +1,12 @@
+.selector-container {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+  }
+  
+  select {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
